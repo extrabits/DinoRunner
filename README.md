@@ -1,4 +1,4 @@
-# HTML Canvas & JavaScript
+# 🎮 HTML Canvas & JavaScript 🐉
 
 Let's create a simple game using **Canvas** and JavaScript, it will be the perfect opportunity to learn how to use **Canvas** and a bit of modern JavaScript too!
 
